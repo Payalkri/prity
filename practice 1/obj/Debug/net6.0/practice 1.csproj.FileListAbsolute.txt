@@ -1,0 +1,15 @@
+D:\outlook\OneDrive\Desktop\C#\practice 1\obj\Debug\net6.0\practice 1.csproj.AssemblyReference.cache
+D:\outlook\OneDrive\Desktop\C#\practice 1\obj\Debug\net6.0\practice 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\outlook\OneDrive\Desktop\C#\practice 1\obj\Debug\net6.0\practice 1.AssemblyInfoInputs.cache
+D:\outlook\OneDrive\Desktop\C#\practice 1\obj\Debug\net6.0\practice 1.AssemblyInfo.cs
+D:\outlook\OneDrive\Desktop\C#\practice 1\obj\Debug\net6.0\practice 1.csproj.CoreCompileInputs.cache
+D:\outlook\OneDrive\Desktop\C#\practice 1\bin\Debug\net6.0\practice 1.exe
+D:\outlook\OneDrive\Desktop\C#\practice 1\bin\Debug\net6.0\practice 1.deps.json
+D:\outlook\OneDrive\Desktop\C#\practice 1\bin\Debug\net6.0\practice 1.runtimeconfig.json
+D:\outlook\OneDrive\Desktop\C#\practice 1\bin\Debug\net6.0\practice 1.dll
+D:\outlook\OneDrive\Desktop\C#\practice 1\bin\Debug\net6.0\practice 1.pdb
+D:\outlook\OneDrive\Desktop\C#\practice 1\obj\Debug\net6.0\practice 1.dll
+D:\outlook\OneDrive\Desktop\C#\practice 1\obj\Debug\net6.0\refint\practice 1.dll
+D:\outlook\OneDrive\Desktop\C#\practice 1\obj\Debug\net6.0\practice 1.pdb
+D:\outlook\OneDrive\Desktop\C#\practice 1\obj\Debug\net6.0\practice 1.genruntimeconfig.cache
+D:\outlook\OneDrive\Desktop\C#\practice 1\obj\Debug\net6.0\ref\practice 1.dll
